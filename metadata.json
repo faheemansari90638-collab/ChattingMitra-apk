@@ -1,0 +1,6 @@
+{
+  "name": "ChatMitra",
+  "description": "WhatsApp-style Android messaging application featuring real-time chats, status updates, voice & video calling, privacy lock, media sharing, translations, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
